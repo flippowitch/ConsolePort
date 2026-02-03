@@ -169,7 +169,7 @@ local _, db = ...; db.Gamepad:AddGamepad({
 }, { -- metaData
 	Label = 'LTR';
 	LabelStyle = 'Letters';
-	Description = db.Locale.DEVICE_DESC_XBOX;
+	Description = db.Locale.DEVICE_DESC_RAZER;
 	Colors = {
 		PAD1 = '52C14E';
 		PAD2 = 'FA4451';
